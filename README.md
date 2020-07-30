@@ -1,5 +1,7 @@
 # Omni for Windows Terminal
 
+![Screenshot](omni-presentation.gif)
+
 ## Install
 Open Windows Terminal and click on the down arrow icon, and then settings option.
 
